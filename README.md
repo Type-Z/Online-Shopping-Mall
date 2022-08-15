@@ -3,12 +3,23 @@
 ### This is a resubmit of the Online Shopping Mall with springboot. Changed from private to public repo.
 
 #### Description
-- Online Shopping mall
+- This is a online shopping mall project. It is based on springcloud, springcloud Alibaba and mybatis plus. The shopping mall system includes modules such as user login, registration, search, item details, shopping cart and orders.
 
-#### Software Architecture
-- Software architecture description
-##### springboot+springcloud
+#### Architecture
+- Frontend: Vue
+- SpringBoot: SpringMVC
+- SpringCloud: MicroServices
+- Elasticsearch: Search Engine
+- Docker: Container
+- Nginx: Reverse Proxy
 
+
+#### Environment
+- JDK	1.8
+- Mysql	5.7
+- Redis	https://redis.io/download
+- Elasticsearch	7.6.2
+- Nginx	1.1.6
 
 #### Notes
 
